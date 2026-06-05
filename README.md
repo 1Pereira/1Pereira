@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Welcome to my Github profile!<br>😌My name is João Vitor Pereira Cantadori, 22 y from Brasil.<br>💻Currently finishing my bachelor's degree in Computer Science at UTFPR in Ponta Grossa.<br>🧠Data Scientist | Machine Learning Engineer | Front-end developer
+👋Welcome to my Github profile!<br>😌My name is João Vitor Pereira Cantadori, 22 y from Brazil.<br>💻Currently finishing my bachelor's degree in Computer Science at UTFPR in Ponta Grossa.<br>🧠Data Scientist | Machine Learning Engineer | Front-end developer
 
 
 ## 🌐 Socials:
